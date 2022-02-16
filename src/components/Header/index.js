@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <nav className="navbar navbar-dark bg-primary">
       <div className="container">
-        <a className="navbar-brand" href="https://eneagrama.aquelemqueana.com">
+        <a className="navbar-brand" href="/">
           Ana do Eneagrama
         </a>
         <div className="justify-content-end">
